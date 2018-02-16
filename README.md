@@ -1,9 +1,10 @@
 # CookieMonsta-BOT
 Below are listed all the available commands!
 
-* Legend
+** Legend **
 
 ✅ - Only users with **ADMINISTRATOR** flag will be able to use the command
+
 ❌ - everyone can use the command
 
 
