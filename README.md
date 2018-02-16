@@ -8,7 +8,7 @@ Below are listed all the available commands!
 
 
 | Administrator Only | Command and Parameters | Description |
-| :---: | :--- | :--- |
+| :---:              |                   :--- |        :--- |
 | ✅ | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
 | ✅ | !loop | **Start** / **Stop** displaying random facts to everyone on the server every **45** minutes |
 | ✅ | !givecookies **@user** **< amount >** | Give cookies to a user from the server |
@@ -27,6 +27,9 @@ Below are listed all the available commands!
 | 👦 | !color **list** | List all available colors that can be purchased |
 | 👦 | !smack **@user** | Smack a user really good! |
 | 👦 | !memes | Display a list of available Twitch memes |
+| 👦 | !joke | Display a random Chuck Norris joke |
+| 👦 | !yomama | Display a random Yo Momma joke |
+| 👦 | !pokefusion | Get a random fused Pokemon |
 | 👦 | 
 
 
