@@ -45,7 +45,7 @@ Below are listed all the available commands!
 | 👦 | !roll | Roll the dice |
 | 👦 | !flip | Flip the coin | 
 | 👦 | !rock | Play Rock, Paper, Scissors |
-| 👦 | !battle **@user** | Fight the specified user on Death Battle |
+| 👦 | !battle **@user** | Fight the mentioned user on Death Battle |
 | 👦 | !slots | Play Rolling Slots |
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 
