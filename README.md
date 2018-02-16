@@ -32,6 +32,7 @@
 | 👦 | !joke | Display a random Chuck Norris joke |
 | 👦 | !yomama | Display a random Yo Momma joke |
 | 👦 | !pokefusion | Get a random fused Pokemon |
+| 👦 | !belike | Get a random ***Be like Bill*** meme |
 | 👦 | !sound **< sound name >** | Play the specified sound ***(case sensitive)*** |
 | 👦 | !sound **list** | List all the available sounds | 
 | 👦 | !rip **@user** | Create a tombstone |
