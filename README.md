@@ -1,5 +1,7 @@
 # CookieMonsta-BOT
-Below are listed all the available commands!
+* Below are listed all the available commands!
+* BOT is constantly being updated so these might change.
+* Unfortunately you can't change the prefix, you have to use the built in one: **!**
 
 ## Legend
 
