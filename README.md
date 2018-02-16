@@ -6,7 +6,7 @@ Below are listed all the available commands!
 * ✅ - Only users with **ADMINISTRATOR** flag will be able to use the command
 * 👦 - everyone can use the command
 
-
+| :---:              |                   :---: |        :---: |
 | Administrator Only | Command and Parameters | Description |
 | :---:              |                   :--- |        :--- |
 | ✅ | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
