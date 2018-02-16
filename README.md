@@ -2,7 +2,7 @@
 List of all the commands my BOT have
 
 | Administrator Only | Command | Description |
-| :---: | | |
+| :---:        |     :---:     |       :---  |
 | --- | --- | --- |
 | ✅ | !clear | **PURGE** the chat (last 100 messages) |
 | ✅ | !loop | **Start**/**Stop** displaying random facts to everyone on the server every **45** minutes |
