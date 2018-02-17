@@ -1,6 +1,7 @@
 # CookieMonsta-BOT
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
+* Daily horoscope! Dope memes! Fun commands! Cookies! Colors! Sounds! W0aW! Try me pleb.
 * Unfortunately you can't change the prefix, you have to use the built in one: **!**
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
 
