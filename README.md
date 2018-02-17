@@ -57,7 +57,7 @@
 ## 📺 There is a little DEMO with some of the commands, below 📺
 
 
-![Alt Text](https://github.com/tutyamxx}/CookieMonsta-BOT/master/cookiemonster.gif)
+![Alt Text](https://raw.githubusercontent.com/tutyamxx/CookieMonsta-BOT/master/cookiemonster.gif)
 
 
 
