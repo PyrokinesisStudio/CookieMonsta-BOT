@@ -1,9 +1,9 @@
-# CookieMonsta-BOT version (3.0.2)
+# CookieMonsta-BOT (v3.0.2)
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
-* Unfortunately you can't change the prefix, you have to use the built in one: **!**
+* Unfortunately you can't change the prefix, you have to use the built in one: **!** **Come at me bro ( ͜。 ͡ʖ ͜。)**
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
 
 ## Custom Welcome Banner!
