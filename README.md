@@ -5,6 +5,7 @@
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
 * Unfortunately you can't change the prefix, you have to use the built in one: **!** **Come at me bro ( ͜。 ͡ʖ ͜。)**
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
+* Yea I know mate, it might have some bugs. I am doing my best when I can and I will update it.
 
 ## Custom Welcome Banner!
 ![Screenshot](banner.PNG)
@@ -34,7 +35,7 @@
 | 👦 | !color **list** | List all available colors that can be purchased |
 | 👦 | !numfact **< number >** | Get a random fact about the number |
 | 👦 | !smack **@user** | Smack a user really good! |
-| 👦 | !memes | Display a list of available Twitch memes |
+| 👦 | !memes | Display a list of available Twitch memes ***(more to come)*** |
 | 👦 | !joke | Display a random Chuck Norris joke |
 | 👦 | !yomama | Display a random Yo Momma joke |
 | 👦 | !pokefusion | Get a random fused Pokemon |
