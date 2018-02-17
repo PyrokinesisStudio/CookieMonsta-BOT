@@ -5,6 +5,9 @@
 * Unfortunately you can't change the prefix, you have to use the built in one: **!**
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
 
+## Custom Welcome Banner!
+![Screenshot](banner.PNG)
+
 ## Legend
 
 * ✅ - Only users with **ADMINISTRATOR** flag will be able to use the command
@@ -54,7 +57,8 @@
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 
 
-##Much more to discover! Invite me to your server --> https://discordapp.com/oauth2/authorize?client_id=412067927333011470&scope=bot&permissions=1379400787
+## Much more to discover!
+Invite me to your server --> https://discordapp.com/oauth2/authorize?client_id=412067927333011470&scope=bot&permissions=1379400787
 
 ## 📺 There is a little DEMO with some of the commands, below 📺
 
