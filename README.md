@@ -23,7 +23,7 @@
 | 👦 | !horoscope **list** | It will list all available horoscope signs to type |
 | 👦 | !binary **< your text >** | Convert any text to binary |
 | 👦 | !mycookies | Check your cookies balance |
-| 👦 | !cookieinfo | To check all the prices and information about cookies |
+| 👦 | !cookieinfo | Check all the game rules, win condition, prices and general information about cookies. |
 | 👦 | !color **< color >** | Buy that specific color ***(case sensitive)*** |
 | 👦 | !color **list** | List all available colors that can be purchased |
 | 👦 | !numfact **< number >** | Get a random fact about the number |
