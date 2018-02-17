@@ -1,4 +1,4 @@
-# CookieMonsta-BOT
+# CookieMonsta-BOT version (3.0.2)
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
