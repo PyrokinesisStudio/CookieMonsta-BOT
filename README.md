@@ -53,6 +53,7 @@
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 
 
+##Much more to discover! Invite me to your server --> https://discordapp.com/oauth2/authorize?client_id=412067927333011470&scope=bot&permissions=1379400787
 
 ## 📺 There is a little DEMO with some of the commands, below 📺
 
