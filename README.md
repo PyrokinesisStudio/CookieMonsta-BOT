@@ -1,4 +1,5 @@
 # CookieMonsta-BOT version (3.0.2)
+* I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
