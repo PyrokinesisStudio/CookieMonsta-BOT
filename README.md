@@ -5,7 +5,7 @@
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
 * Unfortunately you can't change the prefix, you have to use the built in one: **!** **Come at me bro ( ͜。 ͡ʖ ͜。)**
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
-* Yea I know mate, it might have some bugs. I am doing my best when I can and I will update it.
+* Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
 
 ## Custom Welcome Banner!
 ![Screenshot](banner.PNG)
