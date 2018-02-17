@@ -57,7 +57,7 @@
 ## 📺 There is a little DEMO with some of the commands, below 📺
 
 
-![Screenshot](cookiemonsta.gif)
+![alt text](cookiemonsta.gif)
 
 
 
