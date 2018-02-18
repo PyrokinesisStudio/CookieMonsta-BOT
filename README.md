@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sesame-street-logo_%281%29.png/revision/latest?cb=20161227004438" width="468" height="60">
+  <img src="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Sesame-street-logo_%281%29.png/revision/latest?cb=20161227004438" width="468" height="100">
 </p>
 
 # CookieMonsta-BOT (v3.0.3)
