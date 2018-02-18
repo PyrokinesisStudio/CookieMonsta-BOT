@@ -15,7 +15,7 @@
 ## Update Logs
 
 ***Version (v3.0.4)***
-* Added a new game! Shell Game! See <a href="## Legend">commands list</a> for info
+* Added a new game! Shell Game! See commands list for info
 
 ***Version (v3.0.3)***
 * Fixed welcome banners (I hope - Shiet, sometimes they still not work, I am aware of this. Working on it...)
