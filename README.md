@@ -6,6 +6,7 @@
 * Unfortunately you can't change the prefix ( ͜。 ͡ʖ ͜。), you have to use the built in one -=> **!** 
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server. Read the FAQ's here --> https://support.discordapp.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
+* Join my server to report bugs or just say hi to me :). --> https://discord.gg/83FnGEY
 
 ## Update Logs
 
