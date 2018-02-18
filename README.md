@@ -9,7 +9,7 @@
 * BOT is constantly being updated so these might change.
 * Daily horoscope! Dope memes! Fun commands! Cool Games! Cookies! Colors! Sounds! W0aW! Try me pleb.
 * Unfortunately you can't change the prefix ( ͜。 ͡ʖ ͜。), you have to use the built in one -=> **!** 
-* As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server. Read the FAQ's here --> <a href="https://support.discordapp.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-" target="_blank">https://support.discordapp.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-</a>
+* As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server. Read the FAQ's here --> https://support.discordapp.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
 
 ## Update Logs
