@@ -9,6 +9,7 @@
 
 ## Update Logs
 
+***Version (v3.0.3)***
 * Fixed welcome banners
 
 ## Custom Welcome Banner!
