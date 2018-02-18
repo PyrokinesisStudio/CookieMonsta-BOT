@@ -15,7 +15,7 @@
 ## Update Logs
 
 ***Version (v3.0.3)***
-* Fixed welcome banners
+* Fixed welcome banners (I hope)
 
 ## Custom Welcome Banner!
 ![Screenshot](banner.PNG)
