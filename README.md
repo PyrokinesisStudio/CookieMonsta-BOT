@@ -15,7 +15,7 @@
 ## Update Logs
 
 ***Version (v3.0.3)***
-* Fixed welcome banners (I hope)
+* Fixed welcome banners (I hope - Shiet, sometimes they still not work, I am aware of this. Working on it...)
 
 ## Custom Welcome Banner!
 ![Screenshot](banner.PNG)
