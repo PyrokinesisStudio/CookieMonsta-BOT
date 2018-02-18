@@ -1,4 +1,4 @@
-# CookieMonsta-BOT (v3.0.2)
+# CookieMonsta-BOT (v3.0.3)
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
@@ -6,6 +6,10 @@
 * Unfortunately you can't change the prefix ( ͜。 ͡ʖ ͜。), you have to use the built in one -=> **!** 
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server.
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
+
+## Update Logs
+
+* Fixed welcome banners
 
 ## Custom Welcome Banner!
 ![Screenshot](banner.PNG)
