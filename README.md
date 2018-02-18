@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v3.0.3)
+# CookieMonsta-BOT (v3.0.4)
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
@@ -13,6 +13,9 @@
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
 
 ## Update Logs
+
+***Version (v3.0.4)***
+* Added a new game! Shell Game! See commands list for info
 
 ***Version (v3.0.3)***
 * Fixed welcome banners (I hope - Shiet, sometimes they still not work, I am aware of this. Working on it...)
@@ -67,6 +70,7 @@
 | 👦 | !battle **@user** | Fight the mentioned user on Death Battle |
 | 👦 | !slots | Play Rolling Slots |
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
+| 👦 | !shellgame | Play a round of Shell Game. If you win you will get awarded with a random prize |
 
 
 ## Much more to discover!
