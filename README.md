@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v3.0.4)
+# CookieMonsta-BOT (v3.0.5)
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
@@ -13,6 +13,10 @@
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
 
 ## Update Logs
+
+***Version (v3.0.5)***
+* Various bug fixes :)
+* Redesigned Death Battle game layout! Go kill em all!
 
 ***Version (v3.0.4)***
 * Added a new game! Shell Game! See commands list for info
