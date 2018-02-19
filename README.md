@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v3.0.5)
+# CookieMonsta-BOT (v3.0.6)
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
@@ -11,18 +11,6 @@
 * Unfortunately you can't change the prefix ( ͜。 ͡ʖ ͜。), you have to use the built in one -=> **!** 
 * As you might know, in order to be able to do stuff, you need to position the BOT role correctly on your Discord server. Read the FAQ's here --> https://support.discordapp.com/hc/en-us/articles/206029707-How-do-I-set-up-Permissions-
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
-
-## Update Logs
-
-***Version (v3.0.5)***
-* Various bug fixes :)
-* Redesigned Death Battle game layout! Go kill em all!
-
-***Version (v3.0.4)***
-* Added a new game! Shell Game! See commands list for info
-
-***Version (v3.0.3)***
-* Fixed welcome banners (I hope - Shiet, sometimes they still not work, I am aware of this. Working on it...)
 
 ## Custom Welcome Banner!
 ![Screenshot](welcomebanner.PNG)
@@ -75,6 +63,7 @@
 | 👦 | !slots | Play Rolling Slots |
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 | 👦 | !shellgame | Play a round of Shell Game. If you win you will get awarded with a random prize |
+| 👦 | !fishy | Go fishing! |
 
 
 ## Much more to discover!
