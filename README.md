@@ -25,7 +25,7 @@
 * Fixed welcome banners (I hope - Shiet, sometimes they still not work, I am aware of this. Working on it...)
 
 ## Custom Welcome Banner!
-![Screenshot](banner.PNG)
+![Screenshot](welcomebanner.PNG)
 
 ## Legend
 
