@@ -68,6 +68,7 @@
 | 👦 | !shellgame | Play a round of Shell Game. If you win you will get awarded with a random prize |
 | 👦 | !fishy | Go fishing! |
 | 👦 | !eww **@user** | Creates an ***Ew I stepped in meme*** |
+| 👦 | !hug **@user** | Hugs the lonely user |
 
 
 ## Much more to discover!
