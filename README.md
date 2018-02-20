@@ -3,7 +3,10 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v3.0.6)
+# CookieMonsta-BOT (v3.0.7)
+
+**MY SERVER CRASHED and corrupted the database, all points have been reset. Sorry!**
+
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
@@ -64,6 +67,7 @@
 | 👦 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 | 👦 | !shellgame | Play a round of Shell Game. If you win you will get awarded with a random prize |
 | 👦 | !fishy | Go fishing! |
+| 👦 | !eww **@user** | Creates an ***Ew I stepped in meme*** |
 
 
 ## Much more to discover!
