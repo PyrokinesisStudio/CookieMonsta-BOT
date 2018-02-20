@@ -69,6 +69,7 @@
 | 👦 | !fishy | Go fishing! |
 | 👦 | !eww **@user** | Creates an ***Ew I stepped in meme*** |
 | 👦 | !hug **@user** | Hugs the lonely user |
+| 👦 | !yn **< your question >** | I will answer your question with yes or no |
 
 
 ## Much more to discover!
