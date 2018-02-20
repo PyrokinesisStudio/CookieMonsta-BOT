@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v3.0.7)
+# CookieMonsta-BOT (v3.0.8)
 
 **<center><font color="red">MY SERVER CRASHED and corrupted the database, all points have been reset. Sorry!</font></center>**
 
