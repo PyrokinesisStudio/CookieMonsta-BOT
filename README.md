@@ -5,7 +5,7 @@
 
 # CookieMonsta-BOT (v3.0.7)
 
-**MY SERVER CRASHED and corrupted the database, all points have been reset. Sorry!**
+**<center><font color="red">MY SERVER CRASHED and corrupted the database, all points have been reset. Sorry!</font></center>**
 
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
