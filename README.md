@@ -18,11 +18,9 @@
 ## Custom Welcome Banner!
 ![Screenshot](welcomebanner.PNG)
 
-## Legend
+## Commands
 
-* ✅ - Only users with **ADMINISTRATOR** flag will be able to use the command
-* 👦 - everyone can use the command
-
+| Admin Only |
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
