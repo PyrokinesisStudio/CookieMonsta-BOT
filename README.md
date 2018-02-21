@@ -20,7 +20,7 @@
 
 # Commands
 
-## * Administrator Only Commands
+## 🎩 Administrator Only Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
@@ -28,7 +28,7 @@
 | !givecookies **@user** **[amount]** | Give cookies to a user from the server |
 
 
-## Utility Commands
+## ⚙️ Utility Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !help or !info | I will send you a Direct Message with information about all the commands available |
@@ -39,13 +39,19 @@
 | !avatar **@user** | Will display the mentioned user avatar |
 | !stats | Get some nerdy bot stats |
 
-## Cookie System Commands
+## 🍪 Cookie System Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !mycookies | Check your cookies balance |
 | !cookieinfo | Check all the game rules, win condition, prices and general information about cookies. |
 
-## Fun Commands
+## 🔊 Sound Commands
+| Command and Parameters | Description |
+| :---:              |                   :--- |
+| !sound **[sound name]** | Play the specified sound ***(case sensitive)*** |
+| !sound **list** | List all the available sounds | 
+
+## 😂 Fun Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !horoscope **[sign]** | To check for daily horoscope ***(case sensitive)*** |
@@ -60,8 +66,6 @@
 | !yomama | Display a random Yo Momma joke |
 | !pokefusion | Get a random fused Pokemon |
 | !belike | Get a random ***Be like Bill*** meme |
-| !sound **[sound name]** | Play the specified sound ***(case sensitive)*** |
-| !sound **list** | List all the available sounds | 
 | !rip **@user** | Create a tombstone |
 | !kill **@user** | Brutally kill a member from the server! ***(Note: you are not actually killing the person, meh.)*** |
 | !hotornot | Check how HOT you are |
@@ -78,7 +82,7 @@
 | !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !xkcd | Gets a random XKCD comic for you |
 
-## Game Commands
+## 🎮 Game Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !roll | Roll the dice |
