@@ -72,6 +72,8 @@
 | 👦 | !yn **< your question >** | I will answer your question with yes or no |
 | 👦 | !stats | Get some nerdy bot stats |
 | 👦 | !trap **@user** | Activate a trap card using the mentioned user |
+| 👦 | !achievement **< text >** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
+| 👦 | !xkcd | Gets a random XKCD comic for you |
 
 
 ## Much more to discover!
