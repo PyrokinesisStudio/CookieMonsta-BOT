@@ -20,7 +20,7 @@
 
 # Commands
 
-## Administrator Only Commands
+## * Administrator Only Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
