@@ -18,9 +18,9 @@
 ## Custom Welcome Banner!
 ![Screenshot](welcomebanner.PNG)
 
-## Commands
+# Commands
 
-| Admin Only |
+## Administrator Only Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
@@ -28,6 +28,7 @@
 | !givecookies **@user** **< amount >** | Give cookies to a user from the server |
 
 
+## Utility Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !help or !info | I will send you a Direct Message with information about all the commands available |
@@ -36,11 +37,20 @@
 | !uptime | It will check for how long I'm alive |
 | !invite | Invite me to your Discord server |
 | !avatar **@user** | Will display the mentioned user avatar |
+| !stats | Get some nerdy bot stats |
+
+## Cookie System Commands
+| Command and Parameters | Description |
+| :---:              |                   :--- |
+| !mycookies | Check your cookies balance |
+| !cookieinfo | Check all the game rules, win condition, prices and general information about cookies. |
+
+## Fun Commands
+| Command and Parameters | Description |
+| :---:              |                   :--- |
 | !horoscope **< sign >** | To check for daily horoscope ***(case sensitive)*** |
 | !horoscope **list** | It will list all available horoscope signs to type |
 | !binary **< your text >** | Convert any text to binary |
-| !mycookies | Check your cookies balance |
-| !cookieinfo | Check all the game rules, win condition, prices and general information about cookies. |
 | !color **< color >** | Buy that specific color ***(case sensitive)*** |
 | !color **list** | List all available colors that can be purchased |
 | !numfact **< number >** | Get a random fact about the number |
@@ -61,6 +71,16 @@
 | !dog | Random dog image |
 | !lenny | Get your daily dose of lenny ( ͡° ͜ʖ ͡°) |
 | !tableflip | When Caps Lock is not enough! Release your anger boi! |
+| !eww **@user** | Creates an ***Ew I stepped in meme*** |
+| !hug **@user** | Hugs the lonely user |
+| !yn **< your question >** | I will answer your question with yes or no |
+| !trap **@user** | Activate a trap card using the mentioned user |
+| !achievement **< text >** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
+| !xkcd | Gets a random XKCD comic for you |
+
+## Game Commands
+| Command and Parameters | Description |
+| :---:              |                   :--- |
 | !roll | Roll the dice |
 | !flip | Flip the coin | 
 | !rock | Play Rock, Paper, Scissors |
@@ -69,13 +89,6 @@
 | !rr | Play Russian Roulette. If you lose, you actually get ***KICKED*** out from the server! Spicy! |
 | !shellgame | Play a round of Shell Game. If you win you will get awarded with a random prize |
 | !fishy | Go fishing! |
-| !eww **@user** | Creates an ***Ew I stepped in meme*** |
-| !hug **@user** | Hugs the lonely user |
-| !yn **< your question >** | I will answer your question with yes or no |
-| !stats | Get some nerdy bot stats |
-| !trap **@user** | Activate a trap card using the mentioned user |
-| !achievement **< text >** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
-| !xkcd | Gets a random XKCD comic for you |
 
 
 ## Much more to discover!
