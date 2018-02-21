@@ -57,7 +57,7 @@
 | !color **[color]** | Buy that specific color ***(case sensitive)*** |
 | !color **list** | List all available colors that can be purchased |
 
-## 😂 Fun Commands
+## 💁‍♀️ Fun and Memes Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !horoscope **[sign]** | To check for daily horoscope ***(case sensitive)*** |
