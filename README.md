@@ -71,6 +71,7 @@
 | 👦 | !hug **@user** | Hugs the lonely user |
 | 👦 | !yn **< your question >** | I will answer your question with yes or no |
 | 👦 | !stats | Get some nerdy bot stats |
+| 👦 | !trap **@user** | Activate a trap card using the mentioned user |
 
 
 ## Much more to discover!
