@@ -48,19 +48,19 @@
 ## Fun Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
-| !horoscope **< sign >** | To check for daily horoscope ***(case sensitive)*** |
+| !horoscope **[sign]** | To check for daily horoscope ***(case sensitive)*** |
 | !horoscope **list** | It will list all available horoscope signs to type |
-| !binary **< your text >** | Convert any text to binary |
-| !color **< color >** | Buy that specific color ***(case sensitive)*** |
+| !binary **[your text]** | Convert any text to binary |
+| !color **[color]** | Buy that specific color ***(case sensitive)*** |
 | !color **list** | List all available colors that can be purchased |
-| !numfact **< number >** | Get a random fact about the number |
+| !numfact **[number]** | Get a random fact about the number |
 | !smack **@user** | Smack a user really good! |
 | !memes | Display a list of available Twitch memes ***(more to come)*** |
 | !joke | Display a random Chuck Norris joke |
 | !yomama | Display a random Yo Momma joke |
 | !pokefusion | Get a random fused Pokemon |
 | !belike | Get a random ***Be like Bill*** meme |
-| !sound **< sound name >** | Play the specified sound ***(case sensitive)*** |
+| !sound **[sound name]** | Play the specified sound ***(case sensitive)*** |
 | !sound **list** | List all the available sounds | 
 | !rip **@user** | Create a tombstone |
 | !kill **@user** | Brutally kill a member from the server! ***(Note: you are not actually killing the person, meh.)*** |
@@ -73,9 +73,9 @@
 | !tableflip | When Caps Lock is not enough! Release your anger boi! |
 | !eww **@user** | Creates an ***Ew I stepped in meme*** |
 | !hug **@user** | Hugs the lonely user |
-| !yn **< your question >** | I will answer your question with yes or no |
+| !yn **[your question]** | I will answer your question with yes or no |
 | !trap **@user** | Activate a trap card using the mentioned user |
-| !achievement **< text >** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
+| !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !xkcd | Gets a random XKCD comic for you |
 
 ## Game Commands
