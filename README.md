@@ -25,7 +25,7 @@
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
 | !loop | **Start** / **Stop** displaying random facts to everyone on the server every **45** minutes |
-| !givecookies **@user** **< amount >** | Give cookies to a user from the server |
+| !givecookies **@user** **[amount]** | Give cookies to a user from the server |
 
 
 ## Utility Commands
