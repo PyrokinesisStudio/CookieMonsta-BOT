@@ -51,14 +51,18 @@
 | !sound **[sound name]** | Play the specified sound ***(case sensitive)*** |
 | !sound **list** | List all the available sounds | 
 
+## 🎨 Colors Commands
+| Command and Parameters | Description |
+| :---:              |                   :--- |
+| !color **[color]** | Buy that specific color ***(case sensitive)*** |
+| !color **list** | List all available colors that can be purchased |
+
 ## 😂 Fun Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !horoscope **[sign]** | To check for daily horoscope ***(case sensitive)*** |
 | !horoscope **list** | It will list all available horoscope signs to type |
 | !binary **[your text]** | Convert any text to binary |
-| !color **[color]** | Buy that specific color ***(case sensitive)*** |
-| !color **list** | List all available colors that can be purchased |
 | !numfact **[number]** | Get a random fact about the number |
 | !smack **@user** | Smack a user really good! |
 | !memes | Display a list of available Twitch memes ***(more to come)*** |
