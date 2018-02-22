@@ -16,7 +16,7 @@
 * Yea I know mate, it might have some bugs. I am doing my best and when I can, I will update the hell out of it.
 
 ## Custom Welcome Banner!
-![Screenshot](welcomebanner.PNG)
+![Screenshot](Capture.PNG)
 
 # Commands
 
