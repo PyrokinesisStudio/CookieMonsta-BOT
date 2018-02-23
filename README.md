@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.0.0)
+# CookieMonsta-BOT (v4.0.2)
 
 **<center><font color="red">MY SERVER CRASHED and corrupted the database, all points have been reset. Sorry!</font></center>**
 
@@ -85,6 +85,8 @@
 | !trap **@user** | Activate a trap card using the mentioned user |
 | !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !xkcd | Gets a random XKCD comic for you |
+| !birb | Random birb image |
+| !tflip **[your text]** | Flips the text upside down |
 
 ## 🎮 Game Commands
 | Command and Parameters | Description |
