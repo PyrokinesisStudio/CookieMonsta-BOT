@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.0.7)
+# CookieMonsta-BOT (v4.0.8)
 
 * **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
@@ -102,6 +102,7 @@
 | !xkcd | Gets a random XKCD comic for you |
 | !birb | Random birb image |
 | !tflip **[your text]** | Flips the text upside down |
+| !lizzy | Display a random lizzy boi |
 
 ## 🎮 Game Commands
 | Command and Parameters | Description |
