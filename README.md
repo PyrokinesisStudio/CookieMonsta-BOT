@@ -18,14 +18,15 @@
 
 # Commands
 
-<center><a href="#-administrator-only-commands">Administrator</a> <b>|</b>
+<p align="center">
+  <a href="#-administrator-only-commands">Administrator</a> <b>|</b>
   <a href="#%EF%B8%8F-utility-commands">Utility</a> <b>|</b>
   <a href="#-cookie-system-commands">Cookie System</a> <b>|</b>
   <a href="#-sound-commands">Sound</a> <b>|</b>
   <a href="#-colors-commands">Colors</a> <b>|</b>
   <a href="#-image-manipulation-memes">Image Manipulation Memes</a> <b>|</b>
   <a href="#%EF%B8%8F-fun-and-memes-commands">Fun</a> <b>|</b>
-  <a href="#-game-commands">Games</a></center>
+  <a href="#-game-commands">Games</a></p>
 
 ## 🎩 Administrator Only Commands
 | Command and Parameters | Description |
