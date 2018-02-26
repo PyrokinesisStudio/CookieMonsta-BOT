@@ -57,6 +57,17 @@
 | !color **[color]** | Buy that specific color ***(case sensitive)*** |
 | !color **list** | List all available colors that can be purchased |
 
+## 📷 Image Manipulation Memes
+| Command and Parameters | Description |
+| :---:              |                   :--- |
+| !eww **@user** | Creates an ***Ew I stepped in meme*** |
+| !hug **@user** | Hugs the lonely user |
+| !belike | Get a random ***Be like Bill*** meme |
+| !rip **@user** | Create a tombstone |
+| !trap **@user** | Activate a trap card using the mentioned user |
+| !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
+| !pixel **@user** | Pixelate the user avatar |
+
 ## 💁‍♀️ Fun and Memes Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
@@ -69,8 +80,6 @@
 | !joke | Display a random Chuck Norris joke |
 | !yomama | Display a random Yo Momma joke |
 | !pokefusion | Get a random fused Pokemon |
-| !belike | Get a random ***Be like Bill*** meme |
-| !rip **@user** | Create a tombstone |
 | !kill **@user** | Brutally kill a member from the server! ***(Note: you are not actually killing the person, meh.)*** |
 | !hotornot | Check how HOT you are |
 | !orcme | Find out your Orc name! |
@@ -79,15 +88,10 @@
 | !dog | Random dog image |
 | !lenny | Get your daily dose of lenny ( ͡° ͜ʖ ͡°) |
 | !tableflip | When Caps Lock is not enough! Release your anger boi! |
-| !eww **@user** | Creates an ***Ew I stepped in meme*** |
-| !hug **@user** | Hugs the lonely user |
 | !yn **[your question]** | I will answer your question with yes or no |
-| !trap **@user** | Activate a trap card using the mentioned user |
-| !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !xkcd | Gets a random XKCD comic for you |
 | !birb | Random birb image |
 | !tflip **[your text]** | Flips the text upside down |
-| !pixel **@user** | Pixelate the user avatar |
 
 ## 🎮 Game Commands
 | Command and Parameters | Description |
