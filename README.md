@@ -18,6 +18,12 @@
 
 # Commands
 
+<center>
+  <a href="https://github.com/tutyamxx/CookieMonsta-BOT#-administrator-only-commands">Administrator Commands</a>
+  <a href="https://github.com/tutyamxx/CookieMonsta-BOT#%EF%B8%8F-utility-commands">Utility Commands</a>
+  
+</center>
+
 ## 🎩 Administrator Only Commands
 | Command and Parameters | Description |
 | :---:              |                   :--- |
