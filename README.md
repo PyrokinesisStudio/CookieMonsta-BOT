@@ -19,8 +19,9 @@
 # Commands
 
 <center>
-  <a href="https://github.com/tutyamxx/CookieMonsta-BOT#-administrator-only-commands">Administrator Commands</a>
-  <a href="https://github.com/tutyamxx/CookieMonsta-BOT#%EF%B8%8F-utility-commands">Utility Commands</a>
+  <a href="#-administrator-only-commands">Administrator Commands</a> <b>|</b>
+  <a href="#%EF%B8%8F-utility-commands">Utility Commands</a> <b>|</b>
+  <a href="#-cookie-system-commands">Cookie System Commands</a> <b>|</b>
   
 </center>
 
