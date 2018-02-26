@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.0.6)
+# CookieMonsta-BOT (v4.0.7)
 
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
@@ -75,6 +75,7 @@
 | !trap **@user** | Activate a trap card using the mentioned user |
 | !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !pixel **@user** | Pixelate the user avatar |
+| !truth **[your text]** | Anime manga truth |
 
 ## 💁‍♀️ Fun and Memes Commands
 | Command and Parameters | Description |
