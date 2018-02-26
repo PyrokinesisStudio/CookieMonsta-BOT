@@ -5,6 +5,7 @@
 
 # CookieMonsta-BOT (v4.0.7)
 
+* **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
 * Below are listed all the available commands!
 * BOT is constantly being updated so these might change.
