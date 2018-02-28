@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.0.8)
+# CookieMonsta-BOT (v4.0.9)
 
 * **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
@@ -77,6 +77,7 @@
 | !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !pixel **@user** | Pixelate the user avatar |
 | !truth **[your text]** | Anime manga truth |
+| !byemom **@user** **[text]** | Creates a ***OK ByE Mom*** meme |
 
 ## 💁‍♀️ Fun and Memes Commands
 | Command and Parameters | Description |
