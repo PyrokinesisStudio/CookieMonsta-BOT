@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.0.9)
+# CookieMonsta-BOT (v4.1.0)
 
 * **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
@@ -19,7 +19,7 @@
 
 # Commands
 <p align="center">
-  <b>55 commands and counting!</b>
+  <b>56 commands and counting!</b>
 </p><br/>
   
 <p align="center">
@@ -107,6 +107,7 @@
 | !birb | Random birb image |
 | !tflip **[your text]** | Flips the text upside down |
 | !lizzy | Display a random lizzy boi |
+| !robohash **[your text]** | Convert your text into a robot image! |
 
 ## 🎮 Game Commands
 | Command and Parameters | Description |
