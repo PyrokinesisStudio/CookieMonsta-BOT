@@ -18,7 +18,10 @@
 ![Screenshot](Capture.PNG)
 
 # Commands
-
+<p align="center">
+  <b>55 commands and counting!</b>
+</p><br/>
+  
 <p align="center">
   <a href="#-administrator-only-commands">Administrator</a> <b>|</b>
   <a href="#%EF%B8%8F-utility-commands">Utility</a> <b>|</b>
@@ -77,7 +80,7 @@
 | !achievement **[text]** | Creates an achievement with your text in the style of Minecraft's "Achievement Get!" |
 | !pixel **@user** | Pixelate the user avatar |
 | !truth **[your text]** | Anime manga truth |
-| !byemom **@user** **[text]** | Creates a ***OK ByE Mom*** meme |
+| !byemom **@user** **[text]** | Creates a ***OK Bye Mom*** meme |
 
 ## 💁‍♀️ Fun and Memes Commands
 | Command and Parameters | Description |
