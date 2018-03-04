@@ -19,7 +19,7 @@
 
 # Commands
 <p align="center">
-  <b>56 commands and counting!</b>
+  <b>57 commands and counting!</b>
 </p><br/>
   
 <p align="center">
