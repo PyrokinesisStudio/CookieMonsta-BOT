@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.1.2b)
+# CookieMonsta-BOT (v4.1.3b)
 
 * **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
@@ -108,6 +108,7 @@
 | !tflip **[your text]** | Flips the text upside down |
 | !lizzy | Display a random lizzy boi |
 | !robohash **[your text]** | Convert your text into a robot image! |
+| !yodatalk **[your text]** | Translate to Yodish, you can. |
 
 ## 🎮 Game Commands
 | Command and Parameters | Description |
