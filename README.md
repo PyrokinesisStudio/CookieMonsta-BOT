@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 
-# CookieMonsta-BOT (v4.1.4f)
+# CookieMonsta-BOT (v4.2.0)
 
 * **I managed to fix almost all the bugs. New things comming soon bois!**
 * I developed this BOT for my personal use, but hey, f0ck it! Is yours too now!
@@ -32,7 +32,7 @@
   <a href="#%EF%B8%8F-fun-and-memes-commands">Fun</a> <b>|</b>
   <a href="#-game-commands">Games</a></p>
 
-## 🎩 Administrator Only Commands
+## 🎩 Administrator Only Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !clear | **PURGE** / **CLEAR** the chat (last 100 messages) |
@@ -40,7 +40,7 @@
 | !givecookies **@user** **[amount]** | Give cookies to a user from the server |
 
 
-## ⚙️ Utility Commands
+## ⚙️ Utility Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !help or !info | I will send you a Direct Message with information about all the commands available |
@@ -51,25 +51,25 @@
 | !avatar **@user** | Will display the mentioned user avatar |
 | !stats | Get some nerdy bot stats |
 
-## 🍪 Cookie System Commands
+## 🍪 Cookie System Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !mycookies | Check your cookies balance |
 | !cookieinfo | Check all the game rules, win condition, prices and general information about cookies. |
 
-## 🔊 Sound Commands
+## 🔊 Sound Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
-| !sound **[sound name]** | Play the specified sound ***(case sensitive)*** |
+| !sound **[sound name]** | Play the specified sound |
 | !sound **list** | List all the available sounds | 
 
-## 🎨 Colors Commands
+## 🎨 Colors Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
-| !color **[color]** | Buy that specific color ***(case sensitive)*** |
+| !color **[color]** | Buy that specific color |
 | !color **list** | List all available colors that can be purchased |
 
-## 📷 Image Manipulation Memes
+## 📷 Image Manipulation Memes <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !eww **@user** | Creates an ***Ew I stepped in meme*** |
@@ -82,10 +82,10 @@
 | !truth **[your text]** | Anime manga truth |
 | !byemom **@user** **[text]** | Creates a ***OK Bye Mom*** meme |
 
-## 💁‍♀️ Fun and Memes Commands
+## 💁‍♀️ Fun and Memes Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
-| !horoscope **[sign]** | To check for daily horoscope ***(case sensitive)*** |
+| !horoscope **[sign]** | To check for daily horoscope |
 | !horoscope **list** | It will list all available horoscope signs to type |
 | !binary **[your text]** | Convert any text to binary |
 | !numfact **[number]** | Get a random fact about the number |
@@ -110,7 +110,7 @@
 | !robohash **[your text]** | Convert your text into a robot image! |
 | !yodatalk **[your text]** | Translate to Yodish, you can. |
 
-## 🎮 Game Commands
+## 🎮 Game Commands <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 | Command and Parameters | Description |
 | :---:              |                   :--- |
 | !roll | Roll the dice |
@@ -123,7 +123,7 @@
 | !fishy | Go fishing! |
 
 
-## Much more to discover!
+## Much more to discover! <a href="https://github.com/tutyamxx/CookieMonsta-BOT/blob/master/README.md#commands">Top</a>
 Invite me to your server --> https://discordapp.com/oauth2/authorize?client_id=412067927333011470&scope=bot&permissions=1379400787
 
 ## 📺 There is a little DEMO with some of the commands, below 📺
